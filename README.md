@@ -1,4 +1,4 @@
-### Assignment
+### Requirements
 
 Complete the `Category` class in `budget.py`. It should be able to instantiate objects based on different budget categories like *food*, *clothing*, and *entertainment*. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:
 
@@ -57,8 +57,6 @@ Percentage spent by category
 
 The unit tests for this project are in `test_module.py`.
 
-### Development
 
-Write your code in `budget.py`. For development, you can use `main.py` to test your `Category` class. Click the "run" button and `main.py` will run.
 
 
